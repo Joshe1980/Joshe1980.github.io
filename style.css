@@ -1,0 +1,83 @@
+
+body {
+    background-color: grey;
+}
+
+#nombreyapellido{
+    color: rgb(25,253,25);
+    font-family: Regular;
+    font-size: 50px;
+
+}
+.pimg{
+    width:20px;
+    height: 20px;
+}
+
+.ptext{
+    font-weight: bold;
+}
+.pspan{
+    margin-left: 50px;
+}
+#personaima{
+     width: 165px;
+     height: 200px;
+     position: absolute;
+     top:5px;
+     right: 0px;
+}
+
+.subtitle-text{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.hr{   
+    height: 15px;
+    margin-left: 0%;
+    width: 75%;
+    color: rgb(25,243,25);
+}   
+
+.class{
+    margin-bottom: 15px;
+}
+#school{
+    margin-left: 25%;
+}
+#columnas{
+    column-count: 3;
+    column-gap: normal;
+    column-rule: 4xp double rgb(25,243,25);
+}
+.middle{
+    margin-bottom: 3px;
+}
+
+.R{
+    float: right
+}
+
+.subtitle-img{
+    width:25px;
+    height: 25px;
+}
+
+.readMore_btn {
+    background-color: rgb(25,243,25);
+    border: none;
+    border-radius: 40px;
+    color: black;
+    box-shadow: rgb(25,253,25);
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
